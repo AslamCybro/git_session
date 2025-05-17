@@ -1,0 +1,3 @@
+[submodule "git_session"]
+	path = git_session
+	url = https://github.com/AslamCybro/git_session.git
